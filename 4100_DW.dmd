@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="4100_DW" id="FE708508-DD0D-4740-6B27-60FA83C5954E" version="3.5">
+<createdBy>accel</createdBy>
+<createdTime>2023-09-25 15:05:18 UTC</createdTime>
+<ownerDesignName>DATA MODEL DRAFT</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>FE708508-DD0D-4740-6B27-60FA83C5954E</designId>
+</OSDM_Design>
